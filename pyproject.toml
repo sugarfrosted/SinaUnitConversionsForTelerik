@@ -1,0 +1,19 @@
+[project]
+name = "unit_decimal_conversions_sugarfrosted"
+version = "0.0.1"
+authors = [
+    { name="Sina Frosted", email="sugarfrosted2005@gmail.com" },
+]
+description = "Unit decimal conversion"
+readme = "README.md"
+requires-python = ">3.14"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+license = "MIT"
+license-files = ["LICEN[CS]E*"]
+
+[project.urls]
+Homepage = "https://github.com/sugarfrosted/SinaUnitConversionForTelerik"
+Issues = "https://github.com/sugarfrosted/SinaUnitConversionForTelerik/issues"
